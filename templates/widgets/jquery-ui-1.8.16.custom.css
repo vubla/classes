@@ -1,0 +1,78 @@
+	/*
+ * jQuery UI CSS Framework 1.8.16
+ *
+ * Copyright 2011, AUTHORS.txt (http://jqueryui.com/about)
+ * Dual licensed under the MIT or GPL Version 2 licenses.
+ * http://jquery.org/license
+ *
+ * http://docs.jquery.com/UI/Theming/API
+ */
+
+
+/* Component containers
+----------------------------------*/
+#vubla .ui-widget { font-family: Trebuchet MS, Tahoma, Verdana, Arial, sans-serif; font-size: 1.1em; }
+#vubla .ui-widget .ui-widget { font-size: 1em; }
+#vubla .ui-widget input, #vubla .ui-widget select, #vubla .ui-widget textarea, #vubla .ui-widget button { font-family: Trebuchet MS, Tahoma, Verdana, Arial, sans-serif; font-size: 1em; }
+#vubla .ui-widget-content { border: 1px solid #dddddd; background: #eeeeee url(images/ui-bg_highlight-soft_100_eeeeee_1x100.png) 50% top repeat-x; color: #333333; }
+#vubla .ui-widget-content a { color: #333333; }
+#vubla .ui-widget-header { border: 1px solid #e78f08; background: #f6a828 url(images/ui-bg_gloss-wave_35_f6a828_500x100.png) 50% 50% repeat-x; color: #ffffff; font-weight: bold; }
+#vubla .ui-widget-header a { color: #ffffff; }
+
+/* Interaction states
+----------------------------------*/
+#vubla .ui-state-default, #vubla .ui-widget-content .ui-state-default, #vubla .ui-widget-header .ui-state-default { border: 1px solid #cccccc; background: #f6f6f6 url(images/ui-bg_glass_100_f6f6f6_1x400.png) 50% 50% repeat-x; font-weight: bold; color: #1c94c4; }
+#vubla .ui-state-default a, #vubla .ui-state-default a:link, #vubla .ui-state-default a:visited { color: #1c94c4; text-decoration: none; }
+#vubla .ui-state-hover, #vubla .ui-widget-content .ui-state-hover, #vubla .ui-widget-header .ui-state-hover, #vubla .ui-state-focus, #vubla .ui-widget-content .ui-state-focus, #vubla .ui-widget-header .ui-state-focus { border: 1px solid #fbcb09; background: #fdf5ce url(images/ui-bg_glass_100_fdf5ce_1x400.png) 50% 50% repeat-x; font-weight: bold; color: #c77405; }
+#vubla .ui-state-hover a, #vubla .ui-state-hover a:hover { color: #c77405; text-decoration: none; }
+#vubla .ui-state-active, #vubla .ui-widget-content .ui-state-active, #vubla .ui-widget-header .ui-state-active { border: 1px solid #fbd850; background: #ffffff url(images/ui-bg_glass_65_ffffff_1x400.png) 50% 50% repeat-x; font-weight: bold; color: #eb8f00; }
+#vubla .ui-state-active a, #vubla .ui-state-active a:link, #vubla .ui-state-active a:visited { color: #eb8f00; text-decoration: none; }
+#vubla .ui-widget :active { outline: none; }
+
+/* Interaction Cues
+----------------------------------*/
+#vubla .ui-state-highlight, #vubla .ui-widget-content .ui-state-highlight, #vubla .ui-widget-header .ui-state-highlight  {border: 1px solid #fed22f; background: #ffe45c url(images/ui-bg_highlight-soft_75_ffe45c_1x100.png) 50% top repeat-x; color: #363636; }
+#vubla .ui-state-highlight a, #vubla .ui-widget-content .ui-state-highlight a, #vubla .ui-widget-header .ui-state-highlight a { color: #363636; }
+#vubla .ui-state-error, #vubla .ui-widget-content .ui-state-error, #vubla .ui-widget-header .ui-state-error {border: 1px solid #cd0a0a; background: #b81900 url(images/ui-bg_diagonals-thick_18_b81900_40x40.png) 50% 50% repeat; color: #ffffff; }
+#vubla .ui-state-error a, #vubla .ui-widget-content .ui-state-error a, #vubla .ui-widget-header .ui-state-error a { color: #ffffff; }
+#vubla .ui-state-error-text, #vubla .ui-widget-content .ui-state-error-text, #vubla .ui-widget-header .ui-state-error-text { color: #ffffff; }
+#vubla .ui-priority-primary, #vubla .ui-widget-content .ui-priority-primary, #vubla .ui-widget-header .ui-priority-primary { font-weight: bold; }
+#vubla .ui-priority-secondary, #vubla .ui-widget-content .ui-priority-secondary,  #vubla .ui-widget-header .ui-priority-secondary { opacity: .7; filter:Alpha(Opacity=70); font-weight: normal; }
+#vubla .ui-state-disabled, #vubla .ui-widget-content .ui-state-disabled, #vubla .ui-widget-header .ui-state-disabled { opacity: .35; filter:Alpha(Opacity=35); background-image: none; }
+
+/* Misc visuals
+----------------------------------*/
+
+/* Corner radius */
+#vubla .ui-corner-all, #vubla .ui-corner-top, #vubla .ui-corner-left, #vubla .ui-corner-tl { -moz-border-radius-topleft: 4px; -webkit-border-top-left-radius: 4px; -khtml-border-top-left-radius: 4px; border-top-left-radius: 4px; }
+#vubla .ui-corner-all, #vubla .ui-corner-top, #vubla .ui-corner-right, #vubla .ui-corner-tr { -moz-border-radius-topright: 4px; -webkit-border-top-right-radius: 4px; -khtml-border-top-right-radius: 4px; border-top-right-radius: 4px; }
+#vubla .ui-corner-all, #vubla .ui-corner-bottom, #vubla .ui-corner-left, #vubla .ui-corner-bl { -moz-border-radius-bottomleft: 4px; -webkit-border-bottom-left-radius: 4px; -khtml-border-bottom-left-radius: 4px; border-bottom-left-radius: 4px; }
+#vubla .ui-corner-all, #vubla .ui-corner-bottom, #vubla .ui-corner-right, #vubla .ui-corner-br { -moz-border-radius-bottomright: 4px; -webkit-border-bottom-right-radius: 4px; -khtml-border-bottom-right-radius: 4px; border-bottom-right-radius: 4px; }
+
+/* Overlays */
+#vubla .ui-widget-overlay { background: #666666 url(images/ui-bg_diagonals-thick_20_666666_40x40.png) 50% 50% repeat; opacity: .50;filter:Alpha(Opacity=50); }
+#vubla .ui-widget-shadow { margin: -5px 0 0 -5px; padding: 5px; background: #000000 url(images/ui-bg_flat_10_000000_40x100.png) 50% 50% repeat-x; opacity: .20;filter:Alpha(Opacity=20); -moz-border-radius: 5px; -khtml-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; }
+/*
+ * jQuery UI Slider 1.8.16
+ *
+ * Copyright 2011, AUTHORS.txt (http://jqueryui.com/about)
+ * Dual licensed under the MIT or GPL Version 2 licenses.
+ * http://jquery.org/license
+ *
+ * http://docs.jquery.com/UI/Slider#theming
+ */
+.ui-slider { position: relative; text-align: left; }
+.ui-slider .ui-slider-handle { position: absolute; z-index: 2; width: 1.2em; height: 1.2em; cursor: default; }
+.ui-slider .ui-slider-range { position: absolute; z-index: 1; font-size: .7em; display: block; border: 0; background-position: 0 0; }
+
+.ui-slider-horizontal { height: .8em; }
+.ui-slider-horizontal .ui-slider-handle { top: -.3em; margin-left: -.6em; }
+.ui-slider-horizontal .ui-slider-range { top: 0; height: 100%; }
+.ui-slider-horizontal .ui-slider-range-min { left: 0; }
+.ui-slider-horizontal .ui-slider-range-max { right: 0; }
+
+.ui-slider-vertical { width: .8em; height: 100px; }
+.ui-slider-vertical .ui-slider-handle { left: -.3em; margin-left: 0; margin-bottom: -.6em; }
+.ui-slider-vertical .ui-slider-range { left: 0; width: 100%; }
+.ui-slider-vertical .ui-slider-range-min { bottom: 0; }
+.ui-slider-vertical .ui-slider-range-max { top: 0; }

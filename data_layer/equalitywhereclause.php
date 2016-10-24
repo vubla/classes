@@ -1,0 +1,6 @@
+<?
+
+class EqualityWhereClause extends BaseWhereClause
+{
+    
+}

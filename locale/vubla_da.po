@@ -1,0 +1,1667 @@
+# Danish translations for PACKAGE package.
+# Copyright (C) 2012 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+#  <info@vubla.com>, 2012.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-01-10 17:47+0100\n"
+"PO-Revision-Date: 2012-07-31 15:35+0100\n"
+"Last-Translator: Rasmus Prentow <rasmus@vubla.com>\n"
+"Language-Team: Danish\n"
+"Language: da\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../../classes/vob.php:25
+msgid "\n"
+msgstr ""
+
+#: ../../classes/payment.php:145
+msgid "Lille"
+msgstr ""
+
+#: ../../classes/payment.php:148 ../../login/views/statusView.php:113
+#: ../../login/views/statusView.php:134
+msgid "Mellem"
+msgstr ""
+
+#: ../../classes/payment.php:151 ../../login/views/statusView.php:116
+msgid "Stor"
+msgstr ""
+
+#: ../../classes/payment.php:155 ../../login/views/statusView.php:120
+#: ../../login/views/statusView.php:139
+msgid "Speciel"
+msgstr ""
+
+#: ../../classes/payment.php:174
+msgid "Vubla Interne Søgmaskine"
+msgstr ""
+
+#: ../../classes/product.php:140
+msgid ""
+"A product were scanned, but no id came up <br/> This is a really serious "
+"problem <br/><pre>"
+msgstr ""
+"Et produkt blev scannet, men ingen id blev fundet <br/> Kontakt venligst "
+"support <br/><pre>"
+
+#: ../../classes/data_layer/vpdo.php:106 ../../classes/data_layer/vpdo.php:248
+msgid ""
+"\n"
+"PDO::errorInfo():\n"
+msgstr ""
+
+#: ../../classes/tests/testclasses/language_test.php:49
+#: ../../classes/tests/testclasses/language_test.php:77
+#: ../../classes/tests/testclasses/language_test.php:85
+#: ../../classes/tests/testclasses/language_test.php:90
+#: ../../classes/tests/testclasses/language_test.php:97
+#: ../../classes/invoice.php:22
+msgid "Pakke"
+msgstr ""
+
+#: ../../classes/tests/testclasses/text_test.php:27
+#: ../../classes/locale/old.php:35
+msgid "url"
+msgstr "URL"
+
+#: ../../classes/invoice.php:22
+msgid "Pris"
+msgstr ""
+
+#: ../../classes/invoice.php:39
+msgid "Dette beløb vil blive hævet fra din konto i løbet af 5 hverdage."
+msgstr ""
+
+#: ../../classes/invoice.php:66
+msgid "Dato"
+msgstr ""
+
+#: ../../classes/invoice.php:66
+msgid "Fakturanr."
+msgstr ""
+
+#: ../../classes/invoice.php:122
+msgid "Moms ({%vat}%)"
+msgstr ""
+
+#: ../../classes/invoice.php:132
+msgid "Total"
+msgstr ""
+
+#: ../../classes/vublamailer.php:61
+msgid "Tak fordi du har tilmeldt dig Vubla"
+msgstr ""
+
+#: ../../classes/vublamailer.php:63
+msgid ""
+"Før du kan bruge Vubla skal din email aktiveres. Klik på nedenstående link "
+"for at aktivere."
+msgstr ""
+
+#: ../../classes/vublamailer.php:68
+msgid ""
+"Skulle linket ikke virke kan du kopiere nedenstående link ind i din browser."
+msgstr ""
+
+#: ../../classes/vublamailer.php:70 ../../classes/vublamailer.php:203
+#: ../../classes/vublamailer.php:240 ../../classes/vublamailer.php:279
+msgid "Med venlig hilsen"
+msgstr ""
+
+#: ../../classes/vublamailer.php:71 ../../classes/vublamailer.php:204
+#: ../../classes/vublamailer.php:241 ../../classes/vublamailer.php:280
+msgid "Hele Vubla Teamet"
+msgstr ""
+
+#: ../../classes/vublamailer.php:91
+msgid "Der er en bruger der &oslash;nsker at blive kontaktet<br/><pre>"
+msgstr ""
+
+#: ../../classes/vublamailer.php:92
+msgid "E-mail: "
+msgstr ""
+
+#: ../../classes/vublamailer.php:191
+msgid "Klik her for at nulstille dit password."
+msgstr ""
+
+#: ../../classes/vublamailer.php:193 ../../classes/vublamailer.php:235
+#: ../../classes/vublamailer.php:275
+msgid "Hej"
+msgstr ""
+
+#: ../../classes/vublamailer.php:195
+msgid ""
+"Hvis du ønsker at nulstille password for din vubla konto, venligst klik på "
+"linket nedenfor:"
+msgstr ""
+
+#: ../../classes/vublamailer.php:199
+msgid ""
+"Du kan nulstille passwordet frem til {%t} timer efter modtagelsen af denne e-"
+"mail."
+msgstr ""
+
+#: ../../classes/vublamailer.php:201
+msgid ""
+"Hvis du ikke ønsker at nulstille dit password så se venligst bort fra denne "
+"e-mail."
+msgstr ""
+
+#: ../../classes/vublamailer.php:233
+msgid "Din webshop er nu blevet crawlet"
+msgstr ""
+
+#: ../../classes/vublamailer.php:236
+msgid "Færdig - så er din webshop blevet crawlet."
+msgstr ""
+
+#: ../../classes/vublamailer.php:238
+msgid ""
+"Hvis du er i gang med at blive oprettet som kunde kan du nu fortsætte "
+"registreringsprocessen på"
+msgstr ""
+
+#: ../../classes/vublamailer.php:272
+msgid "Vubla - Afmeldt"
+msgstr ""
+
+#: ../../classes/vublamailer.php:277
+msgid ""
+"Din Vubla bruger er nu afmeldt, du kan ikke længere benytte Vubla "
+"søgemaskinen."
+msgstr ""
+
+#: ../../classes/vublamailer.php:335
+msgid "Faktura"
+msgstr ""
+
+#: ../../classes/vublamailer.php:337
+msgid "Hej {%name}<br><br>Hermed fremsendes faktura for denne måned"
+msgstr ""
+
+#: ../../classes/vublalog.php:64
+msgid "<br/>"
+msgstr ""
+
+#: ../../classes/user.php:148
+msgid "Kunden er allerede registreret"
+msgstr ""
+
+#: ../../classes/user.php:151
+msgid "Emailen er ugyldig."
+msgstr ""
+
+#: ../../classes/user.php:177 ../../classes/user.php:298
+#: ../../classes/user.php:1071
+msgid "Vi beklager der skete en fejl. Vi arbejder på sagen"
+msgstr ""
+
+#: ../../classes/user.php:197
+msgid "Du har valgt en ugyldig pakke ({%package})"
+msgstr ""
+
+#: ../../classes/user.php:209
+msgid "Webshoppen er allerede registreret"
+msgstr ""
+
+#: ../../classes/user.php:341
+msgid "Bruger og/eller kodeord er forkerte."
+msgstr ""
+
+#: ../../classes/user.php:420
+msgid "Du har været inaktiv for længe."
+msgstr ""
+
+#: ../../classes/user.php:474
+msgid "Dit nye kodeord er ikke langt nok."
+msgstr ""
+
+#: ../../classes/user.php:478
+msgid "De nye indtastede kodeord stemte ikke overens."
+msgstr ""
+
+#: ../../classes/user.php:492
+msgid "Det indtastede gamle kodeord er ikke gyldigt."
+msgstr ""
+
+#: ../../classes/user.php:514 ../../classes/user.php:593
+#: ../../classes/user.php:715
+#, php-format
+msgid "Der er ingen brugere med e-mailen: {%email}."
+msgstr ""
+
+#: ../../classes/user.php:518
+msgid "Der er ikke indtastet nogen e-mail"
+msgstr ""
+
+#: ../../classes/user.php:567
+msgid ""
+"Kunne ikke sende e-mail, men kodeordet er klar til at blive nulstillet -- "
+"Vær venlig at kontakt os"
+msgstr ""
+
+#: ../../classes/user.php:574
+msgid "Der er allerede en aktiv nulstillings session -- denne var startet: "
+msgstr ""
+
+#: ../../classes/user.php:581
+msgid "Kodeordene stemmer ikke overens"
+msgstr ""
+
+#: ../../classes/user.php:606
+msgid "Det nye password bliv ikke sat"
+msgstr ""
+
+#: ../../classes/user.php:633
+msgid "Ugyldig email"
+msgstr ""
+
+#: ../../classes/user.php:731
+msgid ""
+"Der er ingen aktiv nulstilling igang for denne e-mail -- prøv at nulstille "
+"adgangskoden igen"
+msgstr ""
+
+#: ../../classes/user.php:741
+msgid ""
+"Invalid code -- Den code der er tilknyttet med dette link stemmer ikke "
+"overens med den vi er i besidelse af. Prøv at nulstille dit kodeord igen."
+msgstr ""
+
+#: ../../classes/user.php:761
+#, php-format
+msgid "E-mailen: {%email} er allerede aktiveret."
+msgstr ""
+
+#: ../../classes/user.php:763
+msgid "Ukendt e-mail: "
+msgstr ""
+
+#: ../../classes/user.php:966
+msgid "Ugyldigt navn. Husk at det skal være dit fulde navn."
+msgstr ""
+
+#: ../../classes/user.php:982
+msgid "Ugyldigt telefon nummer"
+msgstr ""
+
+#: ../../classes/user.php:992
+msgid "Ugyldig adresse."
+msgstr ""
+
+#: ../../classes/user.php:1009
+msgid "Ugyldigt postnummer."
+msgstr ""
+
+#: ../../classes/user.php:1019
+msgid "Ugyldigt land."
+msgstr ""
+
+#: ../../classes/user.php:1029
+msgid "Ugyldig by."
+msgstr ""
+
+#: ../../classes/user.php:1038
+msgid "Alle kodeordsfelter var ikke udfyldt"
+msgstr ""
+
+#: ../../classes/locale/old.php:5
+msgid "primary_color"
+msgstr "Slider farve"
+
+#: ../../classes/locale/old.php:6
+msgid "secondary_color"
+msgstr "General farve"
+
+#: ../../classes/locale/old.php:7
+msgid "font_stack"
+msgstr "Skrifttype"
+
+#: ../../classes/locale/old.php:8
+msgid "font_size"
+msgstr "Skriftstørrelse"
+
+#: ../../classes/locale/old.php:9
+msgid "text_color"
+msgstr "Tekst farve"
+
+#: ../../classes/locale/old.php:10
+msgid "link_color"
+msgstr "Link farve"
+
+#: ../../classes/locale/old.php:11
+msgid "visited_link_color"
+msgstr "Besøgte links farve"
+
+#: ../../classes/locale/old.php:12
+msgid "focused_link_color"
+msgstr "Markerede links farve"
+
+#: ../../classes/locale/old.php:13
+msgid "more_info_button"
+msgstr "Mere info knap"
+
+#: ../../classes/locale/old.php:14
+msgid "buy_now_button"
+msgstr "Køb nu knap"
+
+#: ../../classes/locale/old.php:15
+msgid "custom_value"
+msgstr "Eller valgfri værdi"
+
+#: ../../classes/locale/old.php:16
+msgid "color_picker"
+msgstr "Farve vælger"
+
+#: ../../classes/locale/old.php:17
+msgid "checkboxeslist"
+msgstr "Liste af checkbox"
+
+#: ../../classes/locale/old.php:18
+msgid "slider"
+msgstr "Slider"
+
+#: ../../classes/locale/old.php:19
+msgid "asc"
+msgstr "Stigende"
+
+#: ../../classes/locale/old.php:20
+msgid "desc"
+msgstr "Faldende"
+
+#: ../../classes/locale/old.php:21
+msgid "buy_link"
+msgstr "Købs link"
+
+#: ../../classes/locale/old.php:22
+msgid "discount_price"
+msgstr "Tilbuds pris"
+
+#: ../../classes/locale/old.php:23
+msgid "price"
+msgstr "Pris"
+
+#: ../../classes/locale/old.php:24
+msgid "name"
+msgstr "Navn"
+
+#: ../../classes/locale/old.php:25
+msgid "image_link"
+msgstr "Billedsti"
+
+#: ../../classes/locale/old.php:26
+msgid "description"
+msgstr "Beskrivelse"
+
+#: ../../classes/locale/old.php:27
+msgid "link"
+msgstr "Produkt link"
+
+#: ../../classes/locale/old.php:28
+msgid "category"
+msgstr "Kategori"
+
+#: ../../classes/locale/old.php:29
+msgid "manufacturers_name"
+msgstr "Producent"
+
+#: ../../classes/locale/old.php:30
+msgid "products_description"
+msgstr "Produkt beskrivelse"
+
+#: ../../classes/locale/old.php:31
+msgid "products_image"
+msgstr "Billede"
+
+#: ../../classes/locale/old.php:32
+msgid "products_model"
+msgstr "Produkt model"
+
+#: ../../classes/locale/old.php:33
+msgid "products_name"
+msgstr "Produkt navn"
+
+#: ../../classes/locale/old.php:34
+msgid "products_price"
+msgstr "Pris"
+
+#: ../../classes/locale/old.php:36
+msgid "lowest_price"
+msgstr "Pris"
+
+#: ../../classes/locale/old.php:38
+msgid "package_small"
+msgstr "Lille"
+
+#: ../../classes/locale/old.php:39
+msgid "package_medium"
+msgstr "Mellem"
+
+#: ../../classes/locale/old.php:40
+msgid "package_large"
+msgstr "Stor"
+
+#: ../../classes/locale/old.php:41
+msgid "package_special"
+msgstr "Speciel"
+
+#: ../../classes/locale/old.php:43
+msgid "optionssettings_not"
+msgstr "-"
+
+#: ../../classes/locale/old.php:44
+msgid "optionssettings_number"
+msgstr "Som tal"
+
+#: ../../classes/locale/old.php:45
+msgid "optionssettings_string"
+msgstr "Som tekst"
+
+#: ../../classes/locale/old.php:46
+msgid "wizard_not"
+msgstr "-"
+
+#: ../../classes/locale/old.php:47
+msgid "wizard_number"
+msgstr "Som tal"
+
+#: ../../classes/locale/old.php:48
+msgid "wizard_string"
+msgstr "Som tekst"
+
+#: ../../classes/locale/old.php:50
+msgid "scrape_no_connection"
+msgstr ""
+"Vi var ikke i stand til at hente dine produkter, tjek evt. dit hostname og "
+"at modulet er korrekt installeret."
+
+#: ../../classes/locale/old.php:51
+msgid "scrape_failed_magento_login"
+msgstr ""
+"Det var ikke muligt at logge ind på magento med nedenstående API nøgle."
+
+#: ../../classes/locale/old.php:52
+msgid "scrape_already_crawling"
+msgstr "Vi er allerede i gang med at hente dine produkter."
+
+#: ../../classes/locale/old.php:53
+msgid "scrape_error"
+msgstr "Der skete en fejl, prøv igen senere."
+
+#: ../../classes/locale/old.php:54
+msgid "scrape_missing_wsdl"
+msgstr "Modulet lader til at være installeret forkert."
+
+#: ../../classes/locale/old.php:55
+#: ../../login/controllers/configurationController.php:571
+msgid "missing_scrape_file"
+msgstr "Modulet lader til at være installeret forkert."
+
+#: ../../admin/controllers/webshopController.php:169
+#: ../../admin/controllers/webshopController.php:181
+#: ../../login/controllers/settingsController.php:9
+#: ../../login/controllers/settingsController.php:22
+msgid "Indstillingerne er gemt"
+msgstr ""
+
+#: ../../admin/controllers/webshopController.php:183
+#: ../../login/controllers/settingsController.php:24
+msgid " Indstillingerne er ikke gemt!"
+msgstr ""
+
+#: ../../admin/controllers/webshopController.php:195
+#: ../../login/controllers/settingsController.php:37
+#: ../../login/controllers/configurationController.php:267
+msgid "Fulde Navn"
+msgstr ""
+
+#: ../../admin/controllers/webshopController.php:197
+#: ../../login/controllers/settingsController.php:39
+msgid "Telefon Nummer"
+msgstr ""
+
+#: ../../admin/controllers/webshopController.php:198
+#: ../../login/controllers/settingsController.php:40
+#: ../../login/controllers/configurationController.php:270
+msgid "Virksomhed"
+msgstr ""
+
+#: ../../admin/controllers/webshopController.php:199
+#: ../../login/controllers/settingsController.php:41
+#: ../../login/controllers/configurationController.php:271
+msgid "Addresse"
+msgstr ""
+
+#: ../../admin/controllers/webshopController.php:202
+#: ../../login/controllers/settingsController.php:44
+#: ../../login/controllers/configurationController.php:273
+msgid "Postnummer"
+msgstr ""
+
+#: ../../admin/controllers/webshopController.php:203
+#: ../../login/controllers/settingsController.php:45
+#: ../../login/controllers/configurationController.php:274
+msgid "By"
+msgstr ""
+
+#: ../../admin/controllers/webshopController.php:232
+#: ../../login/controllers/settingsController.php:81
+msgid "Indtast dit nye kodeord her"
+msgstr ""
+
+#: ../../admin/controllers/webshopController.php:233
+#: ../../login/controllers/settingsController.php:82
+msgid "Nyt Kodeord"
+msgstr ""
+
+#: ../../admin/controllers/webshopController.php:240
+#: ../../login/controllers/settingsController.php:89
+msgid "Genindtast dit nye kodeord her"
+msgstr ""
+
+#: ../../admin/controllers/webshopController.php:241
+#: ../../login/controllers/settingsController.php:90
+msgid "Gentast Nyt Kodeord"
+msgstr ""
+
+#: ../../modules/magento/1.4.0-1.7.x/app/code/community/Vubla/Search/Helper/Data.php:173
+#, php-format
+msgid "Did you mean: %s?"
+msgstr ""
+
+#: ../../modules/magento/1.4.0-1.7.x/app/code/community/Vubla/Search/Helper/Data.php:214
+#, php-format
+msgid "We did not find any results on: %s, but we found something on: %s"
+msgstr ""
+
+#: ../../modules/magento/old/1.4.x-1.6.x/app/code/community/Vubla/Search/Helper/Data.php:261
+#: ../../modules/documentation/latest/app/code/community/Vubla/Search/Helper/Data.php:260
+#, php-format
+msgid "Maximum Search query  length is %s. Your query was cut."
+msgstr "Maximum søge længde er %s. Din forespørgsel blev forkortet."
+
+#: ../../modules/magento/old/1.4.x-1.6.x/app/code/community/Vubla/Search/Helper/Data.php:279
+#: ../../modules/documentation/latest/app/code/community/Vubla/Search/Helper/Data.php:278
+#, php-format
+msgid ""
+"Maximum words count is %1$s. In your search query was cut next part: %2$s."
+msgstr ""
+"Maximum ord længde er %1$s. I din forespørgsel blev forkortet med: %2$s."
+
+#: ../../login/controllers/settingsController.php:73
+msgid "Indtast dit gamle kodeord her"
+msgstr ""
+
+#: ../../login/controllers/settingsController.php:74
+msgid "Kodeord"
+msgstr ""
+
+#: ../../login/controllers/userdefinedkeywordsController.php:20
+#: ../../login/controllers/userdefinedkeywordsController.php:104
+#: ../../login/controllers/userdefinedkeywordsController.php:129
+msgid "Ingen ID blev fundet for denne forespørgsel"
+msgstr ""
+
+#: ../../login/controllers/userdefinedkeywordsController.php:42
+msgid "Vær opmærksom på at hvert nøgleord max kan være {%a} karakterer lang"
+msgstr ""
+
+#: ../../login/controllers/userdefinedkeywordsController.php:50
+msgid "Nøgleordet er gemt."
+msgstr ""
+
+#: ../../login/controllers/userdefinedkeywordsController.php:83
+msgid "Nøgleord oprettet!"
+msgstr ""
+
+#: ../../login/controllers/userdefinedkeywordsController.php:101
+msgid "Nøgleord slettet!"
+msgstr ""
+
+#: ../../login/controllers/userdefinedkeywordsController.php:118
+msgid "Er du sikker på at du vil slette følgende nøgleord:"
+msgstr ""
+
+#: ../../login/controllers/statusController.php:61
+msgid ""
+"Din webshop bliver besøgt indenfor en time. <br /> Du vil modtage en email "
+"når vi har besøgt din webshop."
+msgstr ""
+
+#: ../../login/controllers/statusController.php:65
+msgid "Der skete en fejl"
+msgstr ""
+
+#: ../../login/controllers/configurationController.php:118
+#: ../../login/controllers/configurationController.php:133
+msgid "Der mangler et hostname."
+msgstr ""
+
+#: ../../login/controllers/configurationController.php:123
+msgid "Du skal vælge en webshop type."
+msgstr ""
+
+#: ../../login/controllers/configurationController.php:269
+msgid "Telefon"
+msgstr ""
+
+#: ../../login/controllers/configurationController.php:275
+msgid "Land"
+msgstr ""
+
+#: ../../login/controllers/configurationController.php:351
+#: ../../login/controllers/paymentController.php:12
+msgid "Din tilmelding gik igennem vi trækker pengene ved næste betalingsdag."
+msgstr ""
+
+#: ../../login/controllers/configurationController.php:355
+#: ../../login/controllers/paymentController.php:18
+msgid ""
+"Der skete en fejl i forbindelse med din betaling. Prøv igen eller kontakt "
+"info@vubla.com."
+msgstr ""
+
+#: ../../login/controllers/configurationController.php:555
+msgid "no_connection"
+msgstr "Ingen forbindelse"
+
+#: ../../login/controllers/configurationController.php:559
+msgid "failed_magento_login"
+msgstr ""
+"Det var ikke muligt at logge ind på magento med nedenstående API nøgle."
+
+#: ../../login/controllers/configurationController.php:563
+msgid "already_crawling"
+msgstr "Vi er allerede i gang med at hente dine produkter."
+
+#: ../../login/controllers/configurationController.php:567
+msgid "missing_wsdl"
+msgstr "Modulet lader til at være installeret forkert."
+
+#: ../../login/controllers/configurationController.php:575
+msgid "error"
+msgstr "Der skete en fejl, prøv igen senere."
+
+#: ../../login/controllers/paymentController.php:28
+msgid "Du har nu skiftet pakke."
+msgstr ""
+
+#: ../../login/controllers/paymentController.php:32
+msgid ""
+"Din pakke blev ikke skiftet. Dette skyldtes formentligt at du kun må skifte "
+"din pakke en gang. Kontakt info@vubla.com hvis du har brug for hjælp."
+msgstr ""
+
+#: ../../login/controllers/userController.php:100
+msgid "Din email kunne ikke findes."
+msgstr ""
+
+#: ../../login/controllers/userController.php:106
+msgid "Aktiverings koden passede ikke."
+msgstr ""
+
+#: ../../login/controllers/userController.php:110
+#: ../../login/controllers/userController.php:116
+msgid "Der skete en fejl."
+msgstr ""
+
+#: ../../login/controllers/userController.php:114
+msgid "Din email blev aktiveret. Log ind."
+msgstr ""
+
+#: ../../login/controllers/userController.php:138
+msgid "Der er ikke indtastet nogen e-mail."
+msgstr ""
+
+#: ../../login/controllers/userController.php:174
+msgid "Passwords not set in post"
+msgstr "Passwords mangler i post"
+
+#: ../../login/controllers/userController.php:177
+msgid "Code not set in post"
+msgstr "Koden mangler i post"
+
+#: ../../login/controllers/userController.php:180
+msgid "E-mail not set in post"
+msgstr "E-mail mangler i post"
+
+#: ../../login/controllers/userController.php:197
+msgid "Code not set in get"
+msgstr "Koden mangler i get"
+
+#: ../../login/controllers/userController.php:202
+msgid "E-mail not set in get"
+msgstr "E-mail mangler i get"
+
+#: ../../login/controllers/userController.php:228
+msgid "Der er ikke indtastet nogen email"
+msgstr ""
+
+#: ../../login/controllers/userController.php:238
+msgid ""
+"Din bruger er nu afmeldt og du skulle modtage en e-mail indenfor kort tid, "
+"der bekræfter dette."
+msgstr ""
+
+#: ../../login/controllers/userController.php:247
+msgid "Ukendt fejl."
+msgstr ""
+
+#: ../../login/controllers/userController.php:253
+msgid "Er du sikker på at du vil afmelde din Vubla bruger?"
+msgstr ""
+
+#: ../../login/views/resendactivationView.php:6
+msgid ""
+"For at aktivere din bruger skal du klikke på det link du har modtaget i e-"
+"mail beskeden fra os."
+msgstr ""
+
+#: ../../login/views/resendactivationView.php:8
+msgid ""
+"&Oslash;nsker du er få gensendt dit aktiveringslink til e-mailen herunder "
+"kan du trykke på Gensend knappen."
+msgstr ""
+
+#: ../../login/views/resetpasswordView.php:6
+msgid ""
+"Indtast emailen for den bruger du &oslash;nsker at nulstille kodeordet for."
+msgstr ""
+
+#: ../../login/views/resetpasswordView.php:8
+msgid ""
+"Du skulle modtage en mail kort efter du denne formular er udfyldt, hvorfra "
+"kodeordet kan nulstilles."
+msgstr ""
+
+#: ../../login/views/resetpasswordView.php:13
+#: ../../login/views/setpasswordView.php:15
+msgid "Nulstil"
+msgstr ""
+
+#: ../../login/views/activationsentconfirmationView.php:7
+#: ../../login/views/resetpasswordconfirmationView.php:7
+msgid "En fejl er opst&aring;et: "
+msgstr ""
+
+#: ../../login/views/activationsentconfirmationView.php:9
+msgid ""
+"Du vil modtage en email inden for kort tid, hvorfra du kan aktivere din "
+"Vubla bruger."
+msgstr ""
+
+#: ../../login/views/activationsentconfirmationView.php:10
+#: ../../login/views/resetpasswordconfirmationView.php:10
+#: ../../login/views/setpasswordconfirmationView.php:10
+msgid "Klik her for at logge ind"
+msgstr ""
+
+#: ../../login/views/confstep_webshopView.php:28
+msgid "Din Magento webshops URL"
+msgstr ""
+
+#: ../../login/views/confstep_webshopView.php:36
+msgid "Din Magento webshops URL:"
+msgstr ""
+
+#: ../../login/views/confstep_webshopView.php:41
+msgid "Hvis du ikke har downloadet og installeret modulet"
+msgstr ""
+
+#: ../../login/views/confstep_webshopView.php:41
+msgid "tryk her."
+msgstr ""
+
+#: ../../login/views/confstep_webshopView.php:43
+#: ../../login/views/confirmView.php:37
+#: ../../login/views/confstep_templateView.php:40
+#: ../../login/views/confstep_statusView.php:35
+#: ../../login/views/confstep_finalView.php:37
+#: ../../login/views/userdefinedkeywordseditView.php:35
+#: ../../login/views/userdefinedkeywordsaddView.php:35
+#: ../../login/views/confstep_checkoutView.php:6
+#: ../../login/views/confstep_demoView.php:48
+#: ../../login/views/confstep_sortfilterView.php:118
+msgid "Tilbage"
+msgstr ""
+
+#: ../../login/views/confirmView.php:29 ../../login/views/settingsView.php:49
+#: ../../login/views/settingsView.php:71
+msgid "Annuller"
+msgstr ""
+
+#: ../../login/views/searchlogView.php:1
+msgid "Søgeloggen"
+msgstr ""
+
+#: ../../login/views/searchlogView.php:2
+msgid "Tilbage til statistik"
+msgstr ""
+
+#: ../../login/views/searchlogView.php:6
+#: ../../login/views/productboostView.php:29
+#: ../../login/views/statisticsView.php:229
+msgid "Tid"
+msgstr ""
+
+#: ../../login/views/searchlogView.php:7
+#: ../../login/views/statisticsView.php:230
+msgid "Søgning"
+msgstr ""
+
+#: ../../login/views/searchlogView.php:8
+msgid "Rettet til"
+msgstr ""
+
+#: ../../login/views/searchlogView.php:9
+msgid "Mente du?"
+msgstr ""
+
+#: ../../login/views/searchlogView.php:10
+msgid "Antal fundne produkter"
+msgstr ""
+
+#: ../../login/views/searchlogView.php:11
+msgid "Ip addresse"
+msgstr ""
+
+#: ../../login/views/searchlogView.php:42
+msgid "Kollaps"
+msgstr ""
+
+#: ../../login/views/searchlogView.php:44
+msgid "Vis hele loggen"
+msgstr ""
+
+#: ../../login/views/editsearchlayoutView.php:1
+msgid "Templates"
+msgstr ""
+
+#: ../../login/views/confstep_templateView.php:1
+msgid "Vælg design"
+msgstr ""
+
+#: ../../login/views/confstep_templateView.php:4
+msgid ""
+"Her kan du bestemme hvordan designet af søgeresultatet skal præsenteres på "
+"din webshop."
+msgstr ""
+
+#: ../../login/views/confstep_templateView.php:7
+msgid "Vubla design eller rådata"
+msgstr ""
+
+#: ../../login/views/confstep_templateView.php:9
+msgid "Vil du ikke bruge templates, så vælg JSON i \tdrop-down-menuen."
+msgstr ""
+
+#: ../../login/views/confstep_templateView.php:38
+msgid "Næste"
+msgstr ""
+
+#: ../../login/views/registerView.php:2
+msgid "Tilmeld dig i fire nemme trin"
+msgstr ""
+
+#: ../../login/views/registerView.php:4
+msgid "Vælg din pakke."
+msgstr ""
+
+#: ../../login/views/registerView.php:4
+msgid "(Hvis du ikke allerede har)"
+msgstr ""
+
+#: ../../login/views/registerView.php:5
+msgid "Indtast dine personlige oplysninger."
+msgstr ""
+
+#: ../../login/views/registerView.php:6
+msgid "Vælg heks e-handel du bruger, og vælge en Vubla kodeord."
+msgstr ""
+
+#: ../../login/views/registerView.php:7
+msgid ""
+"Her har vi brug for dine faktureringsoplysninger. Bare rolig, du har din 30 "
+"dage gratis."
+msgstr ""
+
+#: ../../login/views/registerView.php:9
+msgid "Stadig svært?"
+msgstr ""
+
+#: ../../login/views/registerView.php:11
+msgid "Send en mail til vores support:"
+msgstr ""
+
+#: ../../login/views/registerView.php:15
+msgid "Ønsker du at tale med en virkelig person?"
+msgstr ""
+
+#: ../../login/views/registerView.php:17
+msgid ""
+"Vi forsøger at besvare dine spørgsmål, så snart vi kan. Kontakt vores "
+"support mellem  8-18 mandag - fredag."
+msgstr ""
+
+#: ../../login/views/registerView.php:24
+msgid "Tilmeld dig på Vubla"
+msgstr ""
+
+#: ../../login/views/viewsearchlayoutView.php:1
+msgid "Prøv Vubla"
+msgstr ""
+
+#: ../../login/views/viewsearchlayoutView.php:8
+#: ../../login/views/confstep_demoView.php:6
+msgid "Prøv din søgemaskine"
+msgstr ""
+
+#: ../../login/views/viewsearchlayoutView.php:10
+msgid ""
+"Nedenfor kan du prøve Vubla søgemaskinen. Du søger efter de produkter, der "
+"også findes i din webshop"
+msgstr ""
+
+#: ../../login/views/viewsearchlayoutView.php:13
+msgid ""
+"<b>Husk:</b> Prøv at søge efter ord med æ, ø eller å. Hvis produkter ikke "
+"vises korrekt, gå da til"
+msgstr ""
+
+#: ../../login/views/viewsearchlayoutView.php:13
+#: ../../login/views/settingsView.php:1
+#: ../../login/views/edittemplateView.php:28 ../../login/layout.php:63
+msgid "Indstillinger"
+msgstr ""
+
+#: ../../login/views/viewsearchlayoutView.php:13
+msgid "og ændre \"Din Encoding\""
+msgstr ""
+
+#: ../../login/views/viewsearchlayoutView.php:59
+msgid "Udseende"
+msgstr ""
+
+#: ../../login/views/viewsearchlayoutView.php:61
+msgid ""
+"Her kan du ændre udseendet af søgeresultatet, lige fra teksttyper til farver."
+msgstr ""
+
+#: ../../login/views/resetpasswordconfirmationView.php:9
+msgid ""
+"Du vil modtage en email inden for kort tid, hvorfra du kan nulstille dit "
+"kodeord."
+msgstr ""
+
+#: ../../login/views/productboostView.php:3 ../../login/views/statusView.php:9
+msgid "Vi har endnu ikke besøgt din webshop. "
+msgstr ""
+
+#: ../../login/views/productboostView.php:3
+#: ../../login/views/statisticsView.php:17 ../../login/views/statusView.php:9
+msgid ""
+"Hvis din webshop ikke er besøgt inden for en time efter du har installeret "
+"modulet til din webshop skal du kontakte info@vubla.com."
+msgstr ""
+
+#: ../../login/views/productboostView.php:5
+#: ../../login/views/statisticsView.php:19 ../../login/views/statusView.php:11
+msgid ""
+"Lige nu bliver din webshop besøgt. Hvis vi ikke er færdig inden for et par "
+"timer bedes du kontakte info@vubla.com"
+msgstr ""
+
+#: ../../login/views/productboostView.php:16
+msgid "Boost dine produkter"
+msgstr ""
+
+#: ../../login/views/productboostView.php:27
+msgid "Produkt ID"
+msgstr ""
+
+#: ../../login/views/productboostView.php:28
+msgid "Produktnavn"
+msgstr ""
+
+#: ../../login/views/productboostView.php:30
+msgid "Boost"
+msgstr ""
+
+#: ../../login/views/setpasswordView.php:7
+msgid ""
+"Indtast den adgangskode du &oslash;nsker at benytte til brugeren med e-mail"
+msgstr ""
+
+#: ../../login/views/setpasswordView.php:7
+msgid "herunder:"
+msgstr ""
+
+#: ../../login/views/setpasswordView.php:9 ../../login/views/loginView.php:18
+msgid "Adgangskode"
+msgstr ""
+
+#: ../../login/views/setpasswordView.php:10
+msgid "Genindtast adgangskode"
+msgstr ""
+
+#: ../../login/views/emailactivatedView.php:7
+msgid "An error occered. "
+msgstr "En fejl blev fundet."
+
+#: ../../login/views/emailactivatedView.php:9
+msgid "Your email is validated."
+msgstr "Din e-mail blev godkendt."
+
+#: ../../login/views/userdefinedkeywordsindexView.php:1
+#: ../../login/views/userdefinedkeywordseditView.php:1
+#: ../../login/views/userdefinedkeywordsaddView.php:1
+msgid "Brugerdefinerede Nøgleord"
+msgstr ""
+
+#: ../../login/views/userdefinedkeywordsindexView.php:2
+msgid "Overblik"
+msgstr ""
+
+#: ../../login/views/userdefinedkeywordsindexView.php:12
+msgid "Handlinger"
+msgstr ""
+
+#: ../../login/views/userdefinedkeywordsindexView.php:15
+#: ../../login/views/userdefinedkeywordseditView.php:11
+#: ../../login/views/userdefinedkeywordsaddView.php:11
+msgid "Nøgleord"
+msgstr ""
+
+#: ../../login/views/userdefinedkeywordsindexView.php:18
+#: ../../login/views/userdefinedkeywordseditView.php:18
+#: ../../login/views/userdefinedkeywordsaddView.php:18
+msgid "Text"
+msgstr ""
+
+#: ../../login/views/userdefinedkeywordsindexView.php:21
+#: ../../login/views/userdefinedkeywordseditView.php:26
+#: ../../login/views/userdefinedkeywordsaddView.php:26
+msgid "Link URL"
+msgstr ""
+
+#: ../../login/views/userdefinedkeywordsindexView.php:28
+#: ../../login/views/userdefinedkeywordseditView.php:2
+msgid "Ændre"
+msgstr ""
+
+#: ../../login/views/userdefinedkeywordsindexView.php:30
+msgid "Slet"
+msgstr ""
+
+#: ../../login/views/userdefinedkeywordsindexView.php:45
+msgid ""
+"Der er ikke nogle brugerdefinerede nøgleord tilknyttet din webshop.<br/>For "
+"at få det skal du blot bruge linket herunder.<br/>"
+msgstr ""
+
+#: ../../login/views/statisticsView.php:2
+msgid ""
+"Du har ikke aktiveret vubla endnu og får dermed ikke glæde af Vubla. <a href="
+"\"?activate=1\" >Aktiver Vubla nu."
+msgstr ""
+
+#: ../../login/views/statisticsView.php:5
+msgid ""
+"Hvis din Magento installation er ny og du har begrænset eller ingen "
+"søgehistorik, så husk:\n"
+"<br/><br/>\n"
+"- Vubla søgemaskinen lærer løbende hvilke ord dine besøgende bruger om dine "
+"produkter. Det kræver normalvis, at Vubla er aktiv i din webshop i 1 uge, "
+"før søgeresultatet er bedst.\n"
+"<br/>\n"
+"- Vubla finder dine attributter ved 2 gange crawl. Derfor vil søgning på "
+"attributter først virke efter 2. crawl. Dette tager normalvis 1 uge.\n"
+"<br/><br/>\n"
+"Hvis du har spørgsmål, så kontakt os på <a href=\"mailto:info@vubla.com"
+"\">info@vubla.com</a>."
+msgstr ""
+"Hvis din Magento installation er ny og du har begrænset eller ingen "
+"søgehistorik, så husk:\n"
+"<br/><br/>\n"
+"- Vubla søgemaskinen lærer løbende hvilke ord dine besøgende bruger om dine "
+"produkter. Det kræver normalvis, at Vubla er aktiv i din webshop i 1 uge, "
+"før søgeresultatet er bedst.\n"
+"<br/>\n"
+"- Vubla finder dine attributter ved 2 gange scrape. Derfor vil søgning på "
+"attributter først virke efter 2. scrape. Dette tager normalvis 1 uge.\n"
+"<br/><br/>\n"
+"Hvis du har spørgsmål, så kontakt os på <a href=\"mailto:info@vubla.com"
+"\">info@vubla.com</a>."
+
+#: ../../login/views/statisticsView.php:13 ../../login/layout.php:61
+msgid "Statistik"
+msgstr ""
+
+#: ../../login/views/statisticsView.php:17
+msgid "Vi har endnu ikke besøgt din webshop."
+msgstr ""
+
+#: ../../login/views/statisticsView.php:35
+msgid "Søg. / I alt"
+msgstr ""
+
+#: ../../login/views/statisticsView.php:36
+msgid "Søg. / 24 timer"
+msgstr ""
+
+#: ../../login/views/statisticsView.php:37
+msgid "Søg. u. resultat"
+msgstr ""
+
+#: ../../login/views/statisticsView.php:38
+msgid "Søg. m. resultat"
+msgstr ""
+
+#: ../../login/views/statisticsView.php:142
+msgid "De "
+msgstr ""
+
+#: ../../login/views/statisticsView.php:142
+msgid "mest søgte ord"
+msgstr ""
+
+#: ../../login/views/statisticsView.php:147
+msgid "Ord"
+msgstr ""
+
+#: ../../login/views/statisticsView.php:148
+#: ../../login/views/statisticsView.php:186
+msgid "Antal søgninger"
+msgstr ""
+
+#: ../../login/views/statisticsView.php:167
+#: ../../login/views/statisticsView.php:205
+msgid " Minimér "
+msgstr ""
+
+#: ../../login/views/statisticsView.php:171
+#: ../../login/views/statisticsView.php:209
+msgid " Vis alle "
+msgstr ""
+
+#: ../../login/views/statisticsView.php:180
+msgid "Søgninger der ikke gav resultat"
+msgstr ""
+
+#: ../../login/views/statisticsView.php:185
+msgid "Søge streng"
+msgstr ""
+
+#: ../../login/views/statisticsView.php:222
+msgid "Søge-log"
+msgstr ""
+
+#: ../../login/views/statisticsView.php:224
+msgid "De sidste <b>{%a}</b> søgninger var"
+msgstr ""
+
+#: ../../login/views/statisticsView.php:231
+msgid "Antal produkter"
+msgstr ""
+
+#: ../../login/views/statisticsView.php:232
+msgid "Ip adresse"
+msgstr ""
+
+#: ../../login/views/statisticsView.php:260
+msgid "Se søge-log"
+msgstr ""
+
+#: ../../login/views/statisticsView.php:268
+msgid "Der er ikke søgt på nogen ord endnu."
+msgstr ""
+
+#: ../../login/views/defaultView.php:1
+msgid "Velkommen til Vubla"
+msgstr ""
+
+#: ../../login/views/defaultView.php:3
+msgid "Færdig! Du mangler nu kun, at aktivere Vubla på din webshop: "
+msgstr ""
+
+#: ../../login/views/defaultView.php:3
+msgid "Aktivér nu"
+msgstr ""
+
+#: ../../login/views/contactrequestView.php:4
+msgid "An error occered."
+msgstr ""
+
+#: ../../login/views/contactrequestView.php:6
+msgid "You will be contacted."
+msgstr ""
+
+#: ../../login/views/paymentView.php:1
+msgid "Betalingsoplysninger"
+msgstr ""
+
+#: ../../login/views/paymentView.php:4
+msgid "Din webshop indeholder"
+msgstr ""
+
+#: ../../login/views/paymentView.php:4
+msgid "produkter. Din pakke koster derfor"
+msgstr ""
+
+#: ../../login/views/paymentView.php:4
+msgid "DKK."
+msgstr ""
+
+#: ../../login/views/paymentView.php:8
+msgid "Binder vi os til noget?"
+msgstr ""
+
+#: ../../login/views/paymentView.php:9
+msgid ""
+"Nej. Vubla har ingen bindingsperiode. Vælger du at opsige dit abonnement "
+"trækker vi ikke yderligere penge, din konto er aktiv til næste betalingsdato."
+msgstr ""
+
+#: ../../login/views/paymentView.php:12
+msgid "30 dages gratis prøveperiode"
+msgstr ""
+
+#: ../../login/views/paymentView.php:14
+msgid ""
+"Alle kunder kan frit prøve Vubla i 30 dage - det koster altså 0 DKK de "
+"første 30 dage. Du kan frit annullere købet indenfor de første 30 dage."
+msgstr ""
+
+#: ../../login/views/paymentView.php:35
+msgid "Acceptér"
+msgstr ""
+
+#: ../../login/views/paymentView.php:35
+msgid "betingelser og vilkår."
+msgstr ""
+
+#: ../../login/views/paymentView.php:37
+msgid "Du skal acceptere betingelserne før du kan gå videre"
+msgstr ""
+
+#: ../../login/views/confstep_statusView.php:15
+msgid "Indsæt nedenstående API nøgle i Vublas API bruger."
+msgstr ""
+
+#: ../../login/views/confstep_statusView.php:15
+msgid "http://www.vubla.dk/support/magento/indsat-api-nogle/"
+msgstr "http://www.vubla.dk/support/indsat-api-nogle/"
+
+#: ../../login/views/confstep_statusView.php:15
+msgid "se guide her"
+msgstr ""
+
+#: ../../login/views/confstep_statusView.php:17
+msgid "Ovenstående er din magento api nøgle"
+msgstr ""
+
+#: ../../login/views/confstep_statusView.php:32
+msgid ""
+"Denne side opdateres automatisk når din webshop er klar. Du vil samtidig "
+"modtage en email."
+msgstr ""
+
+#: ../../login/views/loginView.php:14
+msgid "Log ind på din Vubla med dit brugernavn og adgangskode."
+msgstr ""
+
+#: ../../login/views/loginView.php:15
+msgid "Ikke medlem? Så prøv Vubla"
+msgstr ""
+
+#: ../../login/views/loginView.php:15
+msgid "gratis i 30 dage"
+msgstr ""
+
+#: ../../login/views/loginView.php:19
+msgid "Registrer"
+msgstr ""
+
+#: ../../login/views/loginView.php:19
+msgid "Nulstil kodeord"
+msgstr ""
+
+#: ../../login/views/settingsView.php:10
+msgid "Generelt"
+msgstr ""
+
+#: ../../login/views/settingsView.php:48 ../../login/views/settingsView.php:70
+msgid "Gem"
+msgstr ""
+
+#: ../../login/views/settingsView.php:53
+#: ../../login/views/confstep_finalView.php:1
+msgid "Personlige Informationer"
+msgstr ""
+
+#: ../../login/views/settingsView.php:79
+msgid "Afmeld Vubla"
+msgstr ""
+
+#: ../../login/views/settingsView.php:81
+msgid ""
+"Tryk på linket nedenfor, hvis du vil afmelde Vubla. Når du bekræfter din "
+"opsigelse af Vubla på den følgende side, vil du ikke kunne logge ind "
+"efterfølgende."
+msgstr ""
+
+#: ../../login/views/settingsView.php:83
+msgid "Afmeld"
+msgstr ""
+
+#: ../../login/views/edittemplateView.php:12
+msgid "Vælg template"
+msgstr ""
+
+#: ../../login/views/edittemplateView.php:35
+msgid "Vælg en template ovenfor først."
+msgstr ""
+
+#: ../../login/views/edittemplateView.php:41
+msgid "Kolonne Antal"
+msgstr ""
+
+#: ../../login/views/edittemplateView.php:42
+msgid "More Info Button"
+msgstr ""
+
+#: ../../login/views/edittemplateView.php:74
+msgid "Eller indsæt værdi:"
+msgstr ""
+
+#: ../../login/views/successView.php:1 ../../login/js/configuration.php:39
+msgid "Succes"
+msgstr ""
+
+#: ../../login/views/successView.php:7 ../../login/views/errorView.php:7
+msgid "Klik her for at fortsætte"
+msgstr ""
+
+#: ../../login/views/confstep_finalView.php:3
+msgid ""
+"Indtast venligst dine personlige oplysninger i felterne nedenfor. Vubla "
+"bruger disse som faktureringsoplysninger."
+msgstr ""
+
+#: ../../login/views/userdefinedkeywordseditView.php:11
+#: ../../login/views/userdefinedkeywordsaddView.php:11
+msgid "(komma separeret)"
+msgstr ""
+
+#: ../../login/views/confstep_signupView.php:1
+msgid "Tilmeld dig Vubla"
+msgstr ""
+
+#: ../../login/views/confstep_signupView.php:5
+msgid ""
+"Indtast e-mail og password nedenfor. Bruges også som dit log-in til Vubla. "
+"Allerede registreret?"
+msgstr ""
+
+#: ../../login/views/confstep_signupView.php:5
+msgid "Log-in her."
+msgstr ""
+
+#: ../../login/views/confstep_signupView.php:10
+msgid "E-mail:"
+msgstr ""
+
+#: ../../login/views/confstep_signupView.php:12
+msgid "Password:"
+msgstr ""
+
+#: ../../login/views/confstep_signupView.php:22
+#: ../../login/views/confstep_demoView.php:49
+#: ../../login/views/confstep_sortfilterView.php:116
+msgid "Videre"
+msgstr ""
+
+#: ../../login/views/errorView.php:1
+msgid "Noget gik galt"
+msgstr ""
+
+#: ../../login/views/statusView.php:18
+msgid "Sidst opdateret"
+msgstr ""
+
+#: ../../login/views/statusView.php:20
+msgid ""
+"Her kan du se hvornår Vubla sidst var forbi din webshop for at opdatere dine "
+"produkter."
+msgstr ""
+
+#: ../../login/views/statusView.php:25
+msgid "Sidste besøg"
+msgstr ""
+
+#: ../../login/views/statusView.php:26
+msgid "Næste planlagte besøg"
+msgstr ""
+
+#: ../../login/views/statusView.php:27
+msgid "Besøg tidligere"
+msgstr ""
+
+#: ../../login/views/statusView.php:33
+msgid "Besøg hurtigst muligt"
+msgstr ""
+
+#: ../../login/views/statusView.php:39
+msgid "Abonnement"
+msgstr ""
+
+#: ../../login/views/statusView.php:41
+msgid ""
+"Du har <b>{%a}</b> produkter og du må maks have <b>{%b}</b> før du skal "
+"skifte til en større pakke."
+msgstr ""
+
+#: ../../login/views/statusView.php:48
+#, php-format
+msgid "Du har {%days_left} dage tilbage af din gratis prøve periode."
+msgstr ""
+
+#: ../../login/views/statusView.php:49
+msgid "Din pakke koster <b>{%price}</b>."
+msgstr ""
+
+#: ../../login/views/statusView.php:59
+msgid "Næste betaling falder <b>{%date}</b> beløbet er <b>{%price}</b>."
+msgstr ""
+
+#: ../../login/views/statusView.php:63
+msgid "<br />"
+msgstr ""
+
+#: ../../login/views/statusView.php:66
+msgid "Din prøve periode er udløbet."
+msgstr ""
+
+#: ../../login/views/statusView.php:68
+msgid "Køb Vubla"
+msgstr ""
+
+#: ../../login/views/statusView.php:75
+msgid "Køb af vubla"
+msgstr ""
+
+#: ../../login/views/statusView.php:76
+msgid ""
+"Hvis du ønsker at opgradere til en plan med flere produkter skal du betale "
+"for Vubla. Tryk \"køb Vubla\" nedenfor."
+msgstr ""
+
+#: ../../login/views/statusView.php:78
+msgid "Køb vubla"
+msgstr ""
+
+#: ../../login/views/statusView.php:84
+msgid ""
+"<b>Vigtigt!</b> I næste måned skifter du til en pakke der gør at vi ikke kan "
+"finde alle dine produkter."
+msgstr ""
+
+#: ../../login/views/statusView.php:85
+msgid "Vi anbefaler at du skifter til en større pakke."
+msgstr ""
+
+#: ../../login/views/statusView.php:91
+msgid "Pakke i næste måned"
+msgstr ""
+
+#: ../../login/views/statusView.php:94
+msgid ""
+"Vigtigt!</b> Du har i øjeblikket flere produkter på din webshop end din "
+"pakke tillader."
+msgstr ""
+
+#: ../../login/views/statusView.php:96
+msgid ""
+"Du bliver nød til at opgradere hvis du fortsat ønsker at benytte vubla "
+"fuldtud."
+msgstr ""
+
+#: ../../login/views/statusView.php:100
+msgid ""
+"Du er tæt på at overskride det maksimale antal produkter for din nuværende "
+"pakke."
+msgstr ""
+
+#: ../../login/views/statusView.php:102
+msgid ""
+"Overvej at opgradere din pakke til at tillade flere produkter med det samme "
+"for at undgå at nye produkter ikke kan findes med Vubla"
+msgstr ""
+
+#: ../../login/views/statusView.php:110 ../../login/views/statusView.php:129
+msgid "Gratis"
+msgstr ""
+
+#: ../../login/views/statusView.php:124
+msgid ""
+"Din pakke i næste måned er: <b>{%pack_name}</b> Den tillader <b>{%max}</b> "
+"produkter."
+msgstr ""
+
+#: ../../login/views/statusView.php:125
+msgid "Hvis du ønsker at skifte pakke kan du vælge det herunder"
+msgstr ""
+
+#: ../../login/views/userdefinedkeywordsaddView.php:2
+msgid "Nyt Nøgleord"
+msgstr ""
+
+#: ../../login/views/downloadsView.php:1
+msgid "Download"
+msgstr ""
+
+#: ../../login/views/confstep_demoView.php:11
+msgid ""
+"Nedenfor kan du prøve Vubla søgemaskinen. Du søger efter de produkter, der "
+"også findes i din webshop."
+msgstr ""
+
+#: ../../login/views/confstep_demoView.php:12
+msgid "Du kan også gå videre, hvis du vil vente med dette."
+msgstr ""
+
+#: ../../login/views/confstep_demoView.php:15
+msgid "Husk:</b> Prøv at søge efter ord med æ, ø eller å. "
+msgstr ""
+
+#: ../../login/views/confstep_demoView.php:15
+msgid "Vises æ ø å forkert?"
+msgstr ""
+
+#: ../../login/views/confstep_demoView.php:19
+msgid ""
+"Hvis æ, ø eller å vises forkert i søgeresultatet nedenfor, så skyldes det, "
+"at den valgte \"encoding\" er forkert."
+msgstr ""
+
+#: ../../login/views/confstep_demoView.php:20
+msgid ""
+"Vælg en anden i drop-down-menuen og tryk \"Ændre og søg\". Det tager op til "
+"flere minutter, da vi skal"
+msgstr ""
+
+#: ../../login/views/confstep_demoView.php:21
+msgid "hente alle produkter fra din webshop på ny - vent venligst."
+msgstr ""
+
+#: ../../login/views/confstep_demoView.php:29
+msgid "Ændre og søg"
+msgstr ""
+
+#: ../../login/views/confstep_demoView.php:35
+msgid ""
+"Vi ændrer nu dine produkters encoding. Dette kan tage nogle minutter "
+"afhængigt af din webshops størrelse. Luk ikke browseren."
+msgstr ""
+
+#: ../../login/views/confstep_sortfilterView.php:14
+msgid "Filter opplysninger"
+msgstr ""
+
+#: ../../login/views/confstep_sortfilterView.php:18
+msgid ""
+"Vælg hvilke attributter, som dine besøgende skal kunne filtrere "
+"søgeresultatet efter."
+msgstr ""
+
+#: ../../login/views/confstep_sortfilterView.php:19
+msgid "Vælg en filtertype nedenfor de attributter der ønskes vist."
+msgstr ""
+
+#: ../../login/views/confstep_sortfilterView.php:27
+msgid "Type"
+msgstr ""
+
+#: ../../login/views/confstep_sortfilterView.php:28
+msgid "Sorter"
+msgstr ""
+
+#: ../../login/views/confstep_sortfilterView.php:29
+msgid "Filtertype"
+msgstr ""
+
+#: ../../login/views/confstep_sortfilterView.php:30
+msgid "Vigtighed"
+msgstr ""
+
+#: ../../login/views/setpasswordconfirmationView.php:7
+msgid "Der opstod en fejl: "
+msgstr ""
+
+#: ../../login/views/setpasswordconfirmationView.php:9
+msgid "Din adgangskode er nu &aelig;ndret."
+msgstr ""
+
+#: ../../login/layout.php:55
+msgid "Logget ind som"
+msgstr ""
+
+#: ../../login/layout.php:55
+msgid "Log ud"
+msgstr ""
+
+#: ../../login/layout.php:67
+msgid "Status"
+msgstr ""
+
+#: ../../login/js/configuration.php:39
+msgid "Du kan nu gå videre ved tryk på \"Næste\"-knappen nedenfor."
+msgstr ""

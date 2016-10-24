@@ -1,0 +1,5 @@
+<phpunit>
+<testsuite name='Name your suite'>
+    <directory suffix='_test.php'>./testclasses</directory>
+</testsuite>
+</phpunit>

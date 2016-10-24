@@ -1,0 +1,1 @@
+cd helpers; phpunit ./buildtestdatabases.php $1
